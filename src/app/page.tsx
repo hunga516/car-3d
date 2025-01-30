@@ -33,7 +33,7 @@ export default function Home() {
                     position={[0, -0.5, 0]}
                     receiveShadow
                 >
-                    <meshStandardMaterial color="#ddd" />
+                    <meshStandardMaterial color="#eee" />
                 </Plane>
 
                 {/* Đường đi */}
