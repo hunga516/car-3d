@@ -36,7 +36,7 @@ export default function Home() {
                     <meshStandardMaterial color="#eee" />
                 </Plane>
 
-                {/* Đường đi */}
+
                 <Plane
                     args={[4, 50]}
                     rotation={[-Math.PI / 2, 0, 0]}
